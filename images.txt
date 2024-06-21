@@ -5,5 +5,6 @@ xhofe/alist:latest
 enmotech/opengauss:5.1.0
 redis:6.2.6
 openjdk:21
+nginx:1.20.2 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
